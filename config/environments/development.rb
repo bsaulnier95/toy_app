@@ -62,4 +62,5 @@ Rails.application.configure do
   config.hosts << "8244de2d98674d3a920b3a307e5589b3.vfs.cloud9.us-east-2.amazonaws.com"
   # Allow Cloud9 connections.
   config.hosts.clear
+  
 end
